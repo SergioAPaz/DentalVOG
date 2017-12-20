@@ -1,0 +1,16 @@
+a{
+    color: #9933CC;
+}
+
+
+    @media only screen and (max-width: 543px) {
+        .mq1 {
+            display: none
+        }
+    }
+
+    @media only screen and (min-width: 543px) {
+        .mq2 {
+            display: none
+        }
+    }
